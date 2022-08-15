@@ -13,7 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi!</h1>
-<h3 align="center">Information Engineering Student</h3>
+<h1 align="center">Hi! My name is Fiorenza Celestyn</h1>
+<h3 align="center">I am an Information Engineering student</h3>
+<br/>
 
 🌱 Currently learning front-end stuff
+
+🙋 Connect with me: https://www.linkedin.com/in/fiorenzacelestyn/
+
+🎵 My hobbies include listening to music and sometimes playing
+
+<br/>
+<h3>Stacks<h3/>
