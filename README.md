@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 🎵 My hobbies include listening to music and sometimes playing it.
 
 <br/>
-<h3>Stacks<h3/>
+<h3>Tools and Languages<h3/>
