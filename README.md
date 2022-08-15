@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h3 align="center">I am an Information Engineering student</h3>
 <br/>
 
-🌱 Currently learning front-end stuff
+🌱 Currently learning front-end stuff.
 
 🙋 Connect with me: https://www.linkedin.com/in/fiorenzacelestyn/
 
-🎵 My hobbies include listening to music and sometimes playing
+🎵 My hobbies include listening to music and sometimes playing it.
 
 <br/>
 <h3>Stacks<h3/>
