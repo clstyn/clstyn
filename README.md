@@ -11,7 +11,7 @@
 </div>
 <div id='contact'>
   <h3>Reach me:</h3>
-  <a href=''><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  <a href='mailto:@fiorenzacelestyn@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div><hr>
 <h3>:hammer_and_wrench: Languages and Tools :<h3/>
 <div>
