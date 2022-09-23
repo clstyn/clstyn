@@ -1,4 +1,4 @@
-<div id='header' align='center'><h3>Hello my gorgeous friends on the internet..</h3></div>
+<div id='header' align='center'><h3>Hello</h3></div>
 <hr>
 
 - :seedling: Currently learning front-end  
